@@ -1,8 +1,8 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/grilli)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/grilli?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/grilli?style=social)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/integral-labs)
+  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/integral-labs?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/integral-labs?style=social)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
   [![YouTube Video Views](https://img.shields.io/youtube/views/CjVGp5kGHxA?style=social)](https://youtu.be/CjVGp5kGHxA)
 
@@ -15,7 +15,7 @@
 
   Integral Labs is a fully responsive restaurant website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/grilli/"><strong>➥ Live Demo</strong></a> | Modified by Agrim
+  <a href="https://codewithsadee.github.io/integral-labs/"><strong>➥ Live Demo</strong></a> | Modified by Agrim
 
 </div>
 
@@ -38,13 +38,13 @@ To run **Integral Labs** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/grilli.git # Modified by Agrim
+sudo git clone https://github.com/codewithsadee/integral-labs.git # Modified by Agrim
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/grilli.git # Modified by Agrim
+git clone https://github.com/codewithsadee/integral-labs.git # Modified by Agrim
 ```
 
 ### Contact
