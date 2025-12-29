@@ -1,1 +1,1 @@
-Integral Labs Restaurant menu
+Integral Restaurant menu

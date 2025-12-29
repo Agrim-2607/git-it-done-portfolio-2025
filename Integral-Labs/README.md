@@ -11,9 +11,9 @@
   <br />
   <br />
 
-  <h2 align="center">Integral Labs - Restaurant Website</h2>
+  <h2 align="center">Integral Restaurant - Restaurant Website</h2>
 
-  Integral Labs is a fully responsive restaurant website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+  Integral Restaurant is a fully responsive restaurant website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
   <a href="https://codewithsadee.github.io/integral-labs/"><strong>➥ Live Demo</strong></a> | Modified by Agrim
 
@@ -23,7 +23,7 @@
 
 ### Demo Screeshots
 
-![Integral Labs Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Integral Restaurant Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
 ### Prerequisites
 
@@ -33,7 +33,7 @@ Before you begin, ensure you have met the following requirements:
 
 ### Run Locally
 
-To run **Integral Labs** locally, run this command on your git bash:
+To run **Integral Restaurant** locally, run this command on your git bash:
 
 Linux and macOS:
 

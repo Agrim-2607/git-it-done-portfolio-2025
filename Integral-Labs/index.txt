@@ -1,4 +1,4 @@
-Integral Labs - Amazing & Delicious Food
+Integral Restaurant - Amazing & Delicious Food
 
 This is a Restaurant html template made by codewithsadee | Modified by Agrim
 
@@ -22,7 +22,7 @@ booking@restaurant.com
 
 #---------- HEADER ----------#
 
-alt = Integral Labs - Home
+alt = Integral Restaurant - Home
 
 aria-label = close menu
 <ion-icon name="close-outline" aria-hidden="true"></ion-icon>
@@ -305,7 +305,7 @@ View Our Blog
 
 #---------- FOOTER ----------#
 
-alt = Integral Labs - Home
+alt = Integral Restaurant - Home
 
 Graphic Era Hill University, Bhimtal Campus
 
@@ -337,7 +337,7 @@ Twitter
 Youtube
 Google Map
 
-&copy; 2022 Integral Labs. All Rights Reserved | Crafted by codewithsadee | Modified by Agrim
+&copy; 2022 Integral Restaurant. All Rights Reserved | Crafted by codewithsadee | Modified by Agrim
 
 https://github.com/codewithsadee
 
